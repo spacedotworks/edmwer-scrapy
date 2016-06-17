@@ -1,0 +1,2 @@
+# edmwer-scrapy
+Scrapy spiders
